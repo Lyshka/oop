@@ -1,4 +1,5 @@
 <?php
+require_once "./Date.php";
 class Interval
 {
     private DateTime $date1;
